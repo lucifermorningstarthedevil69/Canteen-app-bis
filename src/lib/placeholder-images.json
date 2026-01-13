@@ -1,0 +1,118 @@
+{
+  "placeholderImages": [
+    {
+      "id": "poha",
+      "description": "A plate of Poha",
+      "imageUrl": "https://images.unsplash.com/photo-1739249432260-0bcfdc382e5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwb2hhJTIwaW5kaWFufGVufDB8fHx8MTc2Nzc3NzIyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "poha indian"
+    },
+    {
+      "id": "upma",
+      "description": "A bowl of Suji Upma",
+      "imageUrl": "https://images.unsplash.com/photo-1592091222708-a75198f7e581?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx1cG1hJTIwYnJlYWtmYXN0fGVufDB8fHx8MTc2Nzc3NzIyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "upma breakfast"
+    },
+    {
+      "id": "puri-sabji",
+      "description": "Puri with sabji",
+      "imageUrl": "https://images.unsplash.com/photo-1759521296144-fe6f2d2dc769?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwdXJpJTIwc2Fiaml8ZW58MHx8fHwxNzY3Nzc3MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "puri sabji"
+    },
+    {
+      "id": "paratha-ghughni",
+      "description": "Paratha with Ghughni",
+      "imageUrl": "https://images.unsplash.com/photo-1587027512199-618994b570d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwYXJhdGhhJTIwZ2h1Z2huaXxlbnwwfHx8fDE3Njc3NzcyMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "paratha ghughni"
+    },
+    {
+      "id": "rice",
+      "description": "A bowl of plain rice",
+      "imageUrl": "https://images.unsplash.com/photo-1682566509568-ded8649b26bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxyaWNlJTIwYm93bHxlbnwwfHx8fDE3Njc3NzcyMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rice bowl"
+    },
+    {
+      "id": "roti",
+      "description": "Freshly made roti",
+      "imageUrl": "https://images.unsplash.com/photo-1671507136750-05ebd0f97843?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyb3RpJTIwaW5kaWFufGVufDB8fHx8MTc2Nzc3NzIyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "roti indian"
+    },
+    {
+      "id": "fried-rice",
+      "description": "A plate of vegetable fried rice",
+      "imageUrl": "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxmcmllZCUyMHJpY2V8ZW58MHx8fHwxNzY3NzAzNTk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fried rice"
+    },
+    {
+      "id": "veg-manchurian",
+      "description": "Vegetable manchurian",
+      "imageUrl": "https://images.unsplash.com/photo-1710916025824-c16826a5c7f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx2ZWclMjBtYW5jaHVyaWFufGVufDB8fHx8MTc2Nzc3NzIyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "veg manchurian"
+    },
+    {
+      "id": "salad",
+      "description": "Fresh vegetable salad",
+      "imageUrl": "https://images.unsplash.com/photo-1627279000976-f37b535aaf26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxpbmRpYW4lMjBzYWxhZHxlbnwwfHx8fDE3Njc3NzcyMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "indian salad"
+    },
+    {
+      "id": "aloo-matar-fry",
+      "description": "Aloo Matar Fry",
+      "imageUrl": "https://images.unsplash.com/photo-1658857291002-66856f62c2ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxhbG9vJTIwbWF0YXJ8ZW58MHx8fHwxNzY3Nzc3MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "aloo matar"
+    },
+    {
+      "id": "palang-sag",
+      "description": "Palang Sag (Spinach Curry)",
+      "imageUrl": "https://images.unsplash.com/photo-1716535232842-d10da4eb33d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzcGluYWNoJTIwY3Vycnl8ZW58MHx8fHwxNzY3Nzc3MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "spinach curry"
+    },
+    {
+      "id": "musur-dal",
+      "description": "A bowl of Musur Dal",
+      "imageUrl": "https://images.unsplash.com/photo-1633857453617-e272a477847a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkYWwlMjBsZW50aWx8ZW58MHx8fHwxNzY3Nzc3MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dal lentil"
+    },
+    {
+      "id": "fish-curry",
+      "description": "Spicy fish curry",
+      "imageUrl": "https://images.unsplash.com/photo-1761314036936-966ba07ae14b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZmlzaCUyMGN1cnJ5fGVufDB8fHx8MTc2Nzc3NzIyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fish curry"
+    },
+    {
+      "id": "aloo-gobi",
+      "description": "Aloo Gobi curry",
+      "imageUrl": "https://images.unsplash.com/photo-1652545296893-ff9227b3512e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhbG9vJTIwZ29iaXxlbnwwfHx8fDE3Njc3NzcyMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "aloo gobi"
+    },
+    {
+      "id": "lauki-chana-dal",
+      "description": "Lauki Chana Dal",
+      "imageUrl": "https://picsum.photos/seed/laukichana/400/300",
+      "imageHint": "lauki dal"
+    },
+    {
+      "id": "egg-curry",
+      "description": "Spicy egg curry",
+      "imageUrl": "https://images.unsplash.com/photo-1587198059786-bbb540abb5e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxlZ2clMjBjdXJyeXxlbnwwfHx8fDE3Njc3NzcyMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "egg curry"
+    },
+    {
+      "id": "alu-bhaja",
+      "description": "Alu Bhaja (Fried Potato)",
+      "imageUrl": "https://images.unsplash.com/photo-1598998834333-c0b91bc9b2a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwb3RhdG8lMjBmcnl8ZW58MHx8fHwxNzY3Nzc3MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "potato fry"
+    },
+    {
+      "id": "alu-tomato-sabji",
+      "description": "Alu Tomato Sabji",
+      "imageUrl": "https://images.unsplash.com/photo-1649305785246-a1d65e8bc078?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwb3RhdG8lMjB0b21hdG98ZW58MHx8fHwxNzY3Nzc3MjIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "potato tomato"
+    },
+    {
+      "id": "aloo-piyazkali",
+      "description": "Aloo PiyazKali",
+      "imageUrl": "https://images.unsplash.com/photo-1604343934765-09774522a921?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwb3RhdG8lMjBvbmlvbnxlbnwwfHx8fDE3Njc3NzcyMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "potato onion"
+    }
+  ]
+}
